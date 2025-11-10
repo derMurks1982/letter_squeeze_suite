@@ -1,4 +1,8 @@
 # 🧠 Tech Guru's WP Lifehack Suite
+![License](https://img.shields.io/github/license/derMurks1982/letter_squeeze_suite)
+![Last Commit](https://img.shields.io/github/last-commit/derMurks1982/letter_squeeze_suite)
+![Pull Requests](https://img.shields.io/github/issues-pr/derMurks1982/letter_squeeze_suite)
+
 
 > "Don't panic. It's all just PHP."
 
@@ -30,7 +34,10 @@ and more to come...
 
 
 ## 🛠 Installation
-Just copy any named plugin folder into your WordPress `/wp-content/plugins/` directory and activate from the dashboard.
+### via file system browser / FTP / SSH:
+- Just copy any named plugin folder into your WordPress `/wp-content/plugins/` directory and activate from the dashboard.
+### WP-CLI [ZIP file of Meta-Repo not useful; this is more of a note-to-self entry]:
+- wp plugin install https://github.com/derMurks1982/letter_squeeze_suite/archive/refs/heads/main.zip
 
 # 👀 See me on my Socials
 | Platform | Name | Link |
@@ -45,5 +52,7 @@ If these tools pique your interest, feel free to tip the author:
   
 
 ---
-This repository was created by a human who had some degree of assistance from a Large Language Model
-*(ChatGPT-4o)*
+This repository was created by Markus Preckl (aka derMarkus1982),
+using _some degree_ of assistance from a Large Language Model
+
+**(ChatGPT-4o → GPT-5 over time — evolution in action 🧠⚙️)** (Thank you, Sam 😉)
