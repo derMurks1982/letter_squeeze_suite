@@ -1,0 +1,3 @@
+[submodule "plugins/tg_bulk_menu_editor"]
+	path = plugins/tg_bulk_menu_editor
+	url = https://github.com/derMurks1982/tg_bulk_menu_editor
