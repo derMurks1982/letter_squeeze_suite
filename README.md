@@ -47,8 +47,8 @@ and more to come...
 | Twitch | DerMarkus1982 | https://twitch.tv/derMarkus1982 |
 
 # ☕ Support me on Ko‑fi
-If these tools pique your interest, feel free to tip the author:
-- [ko-fi.com/derMurks1982](https://ko-fi.com/derMurks1982)
+If these tools pique your interest, feel free to tip the author:  
+[ko-fi.com/derMurks1982](https://ko-fi.com/derMurks1982)
   
 
 ---
